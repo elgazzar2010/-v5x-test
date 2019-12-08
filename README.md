@@ -1,2 +1,3 @@
 # -v5x-test
-this tool for testing
+هذه الأداة للاختبار
+mv test test.py
